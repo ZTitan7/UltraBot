@@ -105,4 +105,4 @@ if(command === prefix + "purge") {
   }
 
 });
-client.login("Mzg1MjYyMjc1MTM0NDg4NTc2.DP-zLA.nXuO1UvW4t0iFdXl-GvVAE6sc08");
+client.login("Token hidden, sorry!");
