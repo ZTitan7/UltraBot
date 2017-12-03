@@ -3,7 +3,7 @@
         "name":"Help",
         "group":"User",
         "desc":"Displays a list of commands.",
-        "usage":"help [group OR command]"
+        "usage":"help"
     },
     "Purge": {
         "name":"Purge",
@@ -14,7 +14,7 @@
     "Ping": {
         "name":"Ping",
         "group":"User",
-        "desc":"Pong!",
+        "desc":"Returns the clients ping in the chat.",
         "usage":"ping"
 },
     "Kick": {
@@ -26,7 +26,7 @@
     "Ban": {
         "name":"Ban",
         "group":"User",
-        "desc":"Ban a player from the serve, Admins and up only!",
+        "desc":"Ban a player from the server, Admins and up only!",
         "usage":"Ban <player> <reason>"
 }
 }
