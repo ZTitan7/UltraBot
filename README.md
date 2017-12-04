@@ -1,4 +1,5 @@
 # UltraBot
+
 My discord bot
 shfksdagrxmlkfsf
 sdg
@@ -25,3 +26,7 @@ drt
 g
 drrgdrtgdr
 g
+
+My discord bot!
+Current Contributors: ZTitan7, ZeeMan78
+
