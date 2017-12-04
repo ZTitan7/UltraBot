@@ -1,3 +1,27 @@
 # UltraBot
 My discord bot
-Current Contributors: ZTitan7
+shfksdagrxmlkfsf
+sdg
+dc
+hgd
+g
+d
+g
+dr
+g
+d
+rg
+d
+r
+g
+d
+fg
+df
+duiorjyzweaih
+gdfgdfzg
+dr
+g
+drt
+g
+drrgdrtgdr
+g
