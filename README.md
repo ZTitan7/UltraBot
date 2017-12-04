@@ -1,3 +1,3 @@
 # UltraBot
-My discord bot
-Current Contributors: ZTitan7
+My discord bot!
+Current Contributors: ZTitan7, ZeeMan78
