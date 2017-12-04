@@ -25,7 +25,7 @@ const commandList = JSON.parse(fs.readFileSync("Storage/commandList.json", "utf8
 
 //Ping / Pong command
     if (command === prefix + "ping") {
-        message.channel.send(`:ping_pong: Pong! Your current ping is ${Math.round(client.ping)}ms.`);
+        message.channel.send(`:ping_pong: Pong! ${message.author}, your current ping is ${Math.round(client.ping)}ms.`);
     }
 
 //Help command
