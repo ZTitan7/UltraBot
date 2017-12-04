@@ -27,6 +27,12 @@
         "name":"Ban",
         "group":"User",
         "desc":"Ban a player from the server, Admins and up only!",
-        "usage":"Ban <player> <reason>"
+        "usage":"ban <player> <reason>"
+},
+    "Hi": {
+        "name":"Hi",
+        "group":"User",
+        "desc":"Say hi to UltraBot!",
+        "usage":"hi"
 }
 }
