@@ -4,7 +4,7 @@ const client = new Discord.Client();
 
 client.on("ready", () => {
     console.log("UltraBot Armed and Ready to Fire!")
-    client.user.setGame("u:help | Version Alpha 0.1.4");
+    client.user.setGame("u:help | Version" + version);
 });
 
 client.on("message", async message => {
@@ -13,6 +13,7 @@ client.on("message", async message => {
     var prefix = 'u:'; // choose prefix
     let command = array[0];
     let args = array.slice(1);
+    var version = "A 0.1.4"
 
 //Call the JSON file for the help command and require fs
 const fs = require("fs")
@@ -40,7 +41,7 @@ const commandList = JSON.parse(fs.readFileSync("Storage/commandList.json", "utf8
             }
 
     }
-    embed.setFooter(`Version Alpha 0.1.4`)
+    embed.setFooter(`Version` + version)
     embed.setDescription(`**${commandsFound} commands found** - <> means required, [] means optional`)
     message.author.send({embed})
     message.channel.send({embed: {
